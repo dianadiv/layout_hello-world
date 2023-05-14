@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,EACE,qBACF","file":"style.75dbe3ce.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n* {\n  box-sizing: border-box;\n}\n"]}
